@@ -1,0 +1,167 @@
+.wallpaper-1 {
+  position: absolute;
+  width: 208.35%;
+  top: 121px;
+  right: -54.46%;
+  left: -53.88%;
+  background: linear-gradient(
+    180deg,
+    rgba(81, 80, 80, 0.7) 0.16%,
+    rgba(55, 51, 51, 0.7) 37.93%,
+    rgba(0, 0, 0, 0.7) 84.92%
+  );
+  height: 561.7px;
+}
+.abhikarala-child {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  height: 69px;
+}
+.abhikarala-inner,
+.abhikarala-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+}
+.abhikarala-item {
+  bottom: 69px;
+  height: 323px;
+}
+.abhikarala-inner {
+  top: 0;
+  height: 121px;
+}
+.osis-abhikarala {
+  position: absolute;
+  bottom: 24px;
+  left: calc(50% - 63.5px);
+  font-size: var(--font-size-sm);
+  text-align: left;
+}
+.abhikarala-child1,
+.rectangle-icon {
+  position: absolute;
+  width: 100%;
+  top: 1085px;
+  right: -0.06%;
+  left: 0.06%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 400px;
+}
+.abhikarala-child1 {
+  top: 1908px;
+  right: 0.28%;
+  left: -0.28%;
+}
+.smptaruna-logo-2-icon {
+  width: 50px;
+  position: relative;
+  height: 45.2px;
+  object-fit: cover;
+}
+.aspirasimu-prioritas-kami {
+  width: 277px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.alfian-2024 {
+  position: relative;
+  font-size: var(--font-size-base);
+}
+.abhikarala1,
+.smptaruna-logo-2-parent {
+  position: absolute;
+  color: var(--color-white);
+}
+.smptaruna-logo-2-parent {
+  bottom: 171.8px;
+  left: calc(50% - 138.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+}
+.abhikarala1 {
+  top: 343px;
+  left: calc(50% - 144.5px);
+  font-size: 55px;
+  letter-spacing: 0.05em;
+  font-family: var(--font-source-serif-4);
+}
+.logo-icon {
+  position: absolute;
+  top: 15px;
+  left: calc(50% - 49.5px);
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ais-1-icon,
+.alfian-1-icon {
+  position: absolute;
+  top: 706px;
+  left: calc(50% - 138.5px);
+  width: 280px;
+  height: 379.3px;
+  object-fit: cover;
+}
+.ais-1-icon {
+  top: 1532px;
+  left: calc(50% - 149.5px);
+  width: 300px;
+  height: 376.1px;
+}
+.orang-ini-belum {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: 286px;
+  flex-shrink: 0;
+}
+.alfian-ketua-osis {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+}
+.orang-ini-belum-memberikan-quo-group,
+.orang-ini-belum-memberikan-quo-parent {
+  position: absolute;
+  width: 83.33%;
+  right: 8.32%;
+  bottom: 1243px;
+  left: 8.35%;
+  height: 343px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.orang-ini-belum-memberikan-quo-group {
+  right: 8.62%;
+  bottom: 420px;
+  left: 8.04%;
+}
+.abhikarala {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 2700px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
